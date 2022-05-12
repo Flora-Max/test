@@ -4,6 +4,7 @@
         <restaurant-row/>
         <restaurant-row/>
         <restaurant-row/>
+        
         <br>
         <button @click="open = true">Open Modal</button>
     </div>
